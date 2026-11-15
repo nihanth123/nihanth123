@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi, I'm Nihanth Koka 👋</h1>
-<h3 align="center">BI Engineer moving into Analytics Engineering</h3>
+<h3 align="center">Data & Analytics Engineer</h3>
 
-I have 10+ years in business intelligence and data warehousing. I build and test warehouse layers, write Oracle SQL, and turn raw data into reports people trust. Most recently I was a BI Engineer at IBM. I'm now focused on analytics engineering roles.
+I have 10+ years in business intelligence and data warehousing. Curretly i am working as a BI Engineer at IBM.
 
 ---
 
